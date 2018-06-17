@@ -3,14 +3,6 @@ metadata:
   license: CC-BY-4.0
   publication_type: article
   upload_type: publication
-pipelines:
-  co2-emissions:
-    envs:
-    - host
-    path: pipelines/co2-emissions
-    stages:
-    - setup
-    - run
-    - validate
+pipelines: {}
 popperized:
 - github/popperized
