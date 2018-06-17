@@ -1,4 +1,6 @@
 popper_logs
 popper_status
 
+.cache
+
 /home/ujjwal/gsoc/contribute/original/popper-add-check/.cache
